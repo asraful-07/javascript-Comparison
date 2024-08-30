@@ -9,23 +9,23 @@ console.log(price);
 /* 
 var pc = 30000;
 pc = pc + 10000;
-console.log(pc)*/
+console.log(pc);*/
 
 // string
 var name = "sadar uddin"
-console.log(typeof name)
+console.log(typeof name);
 
 // boolean 
 var isRich = true;
 var passed = false;
-console.log(typeof passed)
+console.log(typeof passed);
 
 var orangePrice = 40;
 var applePrice = '30';
-console.log(orangePrice - applePrice)
+console.log(orangePrice - applePrice);
 
 var orangePrice = parseInt ('30.12');
-console.log(orangePrice)
+console.log(orangePrice);
 
 var num1 = 5;
 var num2 = 2;
