@@ -11,9 +11,12 @@
 
 const isPassed = true;
 
-if(isPassed === true){
-    console.log('good lock');
-}
-else{
-    console.log('bad luck');
-}
+// if(isPassed === true){
+//     console.log('good lock');
+// }
+// else{
+//     console.log('bad luck');
+// }
+
+// tarnaei formet
+console.log(!!isPassed ? 'good luck' : 'bad luck');
